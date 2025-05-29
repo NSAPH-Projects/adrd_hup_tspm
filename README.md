@@ -1,5 +1,5 @@
 # The Geography of Memory: Regional and Demographic Variabilities in Dementia-Related Diagnostic Code Utilization in U.S. Medicare Hospitalizations
-Code for _Federica Spoto, Jiazi Tian, Jonas Huegel, Daniel Tran Ortega, Christine S. Ritchie, Deborah Blacker, Francesca Dominici, Chirag Patel, Dan Mork, Hossein Estiri_ "The Geography of Memory: Regional and Demographic Variabilities in Dementia-Related Diagnostic Code Utilization in U.S. Medicare Hospitalizations"
+Code for _Federica Spoto, Jiazi Tian, Jonas Huegel, Daniel Tran Ortega, Christine S. Ritchie, Deborah Blacker, Francesca Dominici, Chirag Patel, Daniel Mork, Hossein Estiri_ "The Geography of Memory: Regional and Demographic Variabilities in Dementia-Related Diagnostic Code Utilization in U.S. Medicare Hospitalizations"
 
 ## Abstract
 
