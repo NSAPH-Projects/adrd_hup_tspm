@@ -25,7 +25,6 @@ load("../data/scratch/ADRD_hospitalization_2016-2018_clin.RData")
 # Get ADRD codes 
 dementia_codes <- read.csv("../data/ADRD_ICD10.csv", stringsAsFactors = FALSE)
 names(dementia_codes) <- c("ICD10", "category", "Description")
-dementia_codes$ICD10[1] = "F0150"
 ADRD_codes = dementia_codes$ICD10
 
 dementia_groups = dementia_codes %>%
