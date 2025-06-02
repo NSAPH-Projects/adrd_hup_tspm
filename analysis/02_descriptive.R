@@ -27,7 +27,6 @@ states = unique(states_sf$STUSPS)
 # Read ADRD code lookup
 dementia_codes <- read.csv("../data/ADRD_ICD10.csv", stringsAsFactors = FALSE)
 names(dementia_codes) <- c("ICD10", "category", "Description")
-dementia_codes$ICD10[1] = "F0150"
 ADRD_codes = dementia_codes$ICD10
 
 # Figure 1: Frequency of ICD-10 codes -------------------------------------
